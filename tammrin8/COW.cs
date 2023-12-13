@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 public class COW : Animal
-{
+{نیما فدوی پروژه هشتم
     static COW()
     {
         Maxlife = 9125;
