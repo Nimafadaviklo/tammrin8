@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 public abstract class Animal
-{
+{نیما فدوی پروژه هشتم
     public Animal()
     {
         totalnumber++;
