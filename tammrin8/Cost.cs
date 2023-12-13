@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 public class Cost
-{
+{نیما فدوی پروژه هشتم
     public string vahed { get; set; }
 
     public double gheymat { get; set; }
