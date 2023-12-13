@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 public class HealthParameter<T>
-{نیما فدوی پروژه هشتم
+{//نیما فدوی پروژه هشتم
     public string Name { get; set; }
     public T current { get; set; }
     public T standard { get; set; }
