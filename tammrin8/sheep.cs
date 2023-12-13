@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 public class sheep : Animal
-{
+{نیما فدوی پروژه هشتم
     static sheep()
     {
         Maxlife = 4380;
